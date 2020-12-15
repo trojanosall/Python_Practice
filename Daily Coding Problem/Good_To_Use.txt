@@ -1,0 +1,7 @@
+https://leetcode.com/problemset/all/
+
+https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemType=functional&page=1&sortBy=submissions
+
+https://www.geeksforgeeks.org/
+
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks
